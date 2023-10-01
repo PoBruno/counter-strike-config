@@ -65,19 +65,19 @@ In_Game_Settings:
 
 ```
 
-## Informações de Hardware
+# Informações de Hardware
 
 - **CPU**: Intel Core i5-7600
 - **GPU**: NVIDIA GeForce GTX 1660 SUPER
 - **RAM**: 16 GB 3000 MHz
 
-## Peripherals
+# Peripherals
 
 - **Mouse**: Zowie FK2 600 DPI
 - **Keyboard**: Corsair K60
 - **Monitor**: Philips 74 Hz
 
-## Configurações no Jogo
+# Configurações no Jogo
 
 | Configuração                        | Valor                          |
 |------------------------------------|--------------------------------|
