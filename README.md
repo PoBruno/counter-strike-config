@@ -1,1 +1,86 @@
-# counter-strike-config
+
+## Informações de Hardware
+
+- **CPU**: Intel Core i5-7600
+- **GPU**: NVIDIA GeForce GTX 1660 SUPER
+- **RAM**: 16 GB 3000 MHz
+## Peripherals
+
+- **Mouse**: Zowie FK2 600 DPI
+- **Keyboard**: Corsair K60
+- **Monitor**: Philips 74 Hz
+
+## Configurações no Jogo
+
+- Resolução: 1152 x 864 @75
+- Modo de exibição: Tela cheia
+- Boost Player Contrast: Ativado
+- VSync: Desativado
+- MSAA Mode: 2x MSAA
+- Qualidade global das sombras: Baixa
+- Detalhe do modelo/textura: Médio
+- Detalhe de shader: Baixo
+- Detalhe de partícula: Baixo
+- Oclusão ambiental: Desativado
+- High Dynamic Range: Performance
+- FidelityFX Super Resolution: Desativado (Qualidade mais alta)
+  - Nota: Borda distante pode ficar borrada/arredondada ao ativar
+- NVIDIA Reflex Low Latency: Ativado + Boost
+
+
+# Configurações
+
+```yaml
+CSGO_Settings:
+  autoexec_path: "C:\\Program Files (x86)\\Steam\\SteamApps\\common\\Counter-Strike Global Offensive\\csgo\\cfg\\autoexec.cfg"
+
+Windows_Monitor_Refresh_Rate:
+  steps:
+    - Win+R: "desk.cpl"
+		- click_on_monitor
+		- open_advanced_display_Settings
+		- set_screen_refresh_rate: 75hz    
+
+Windows_Mouse_Settings:
+  steps:
+    - Win+R: "main.cpl"
+		- Pointer_Options:
+			- Select_Pointer_Speed: "6/11"
+			- Enhance_Pointer_Precision: "Off"
+		
+	- Win+R: "ms-Settings:"
+		- Bluetooth_&_Devices: "Mouse"
+			- Mouse_Pointer_Speed: 10
+			
+Windows_Xbox_Settings:
+	- Win+R: "ms-Settings:"
+		- Gaming:
+			- Xbox_Game_Bar: "Off"
+			- Game_Mode: "Off"
+
+Windows_3d_Settings:
+  steps:
+    - open_NVIDIA_Control_Panel: "3D Settings"
+		- Select_Program_Settings: "CSGO"
+			- Power_Management_Mode: "Prefer Maximum Performance"
+			- Low_Latency_Mode: Off
+
+In_Game_Settings:
+  resolution: "1920x1080"
+  display_mode: fullscreen
+  global_shadow_quality: low
+  model_texture_detail: medium
+  texture_streaming: disabled
+  effect_detail: low
+  shader_detail: low
+  boost_player_contrast: enabled
+  multicore_rendering: enabled
+  msaa_mode: "2x MSAA"
+  fxaa: disabled
+  texture_filtering_mode: bilinear
+  vsync: disabled
+  motion_blur: disabled
+  use_uber_shaders: auto:enabled
+```
+
+
