@@ -1,5 +1,13 @@
 
-# Configurações
+# Counter-Strike 2
+
+Este repositório contém minhas configurações personalizadas para o jogo Counter-Strike 2. 
+
+_Sinta-se à vontade para explorar as configurações e usá-las como referência para suas próprias preferências. Divirta-se jogando!_
+
+[Link para o meu perfil da Steam](https://steamcommunity.com/id/lorthe)
+
+## Configurações
 
 ```yaml
 CSGO_Settings:
@@ -65,19 +73,19 @@ In_Game_Settings:
 
 ```
 
-# Informações de Hardware
+## Informações de Hardware
 
 - **CPU**: Intel Core i5-7600
 - **GPU**: NVIDIA GeForce GTX 1660 SUPER
 - **RAM**: 16 GB 3000 MHz
 
-# Peripherals
+## Peripherals
 
 - **Mouse**: Zowie FK2 600 DPI
 - **Keyboard**: Corsair K60
 - **Monitor**: Philips 74 Hz
 
-# Configurações no Jogo
+## Configurações no Jogo
 
 | Configuração                        | Valor                          |
 |------------------------------------|--------------------------------|
