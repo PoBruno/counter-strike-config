@@ -78,20 +78,22 @@ In_Game_Settings:
 
 ## Configurações no Jogo
 
-- Resolução: 1152 x 864 @75
-- Modo de exibição: Tela cheia
-- Boost Player Contrast: Ativado
-- VSync: Desativado
-- MSAA Mode: 2x MSAA
-- Qualidade global das sombras: Baixa
-- Detalhe do modelo/textura: Médio
-- Detalhe de shader: Baixo
-- Detalhe de partícula: Baixo
-- Oclusão ambiental: Desativado
-- High Dynamic Range: Performance
-- FidelityFX Super Resolution: Desativado (Qualidade mais alta)
-  - Nota: Borda distante pode ficar borrada/arredondada ao ativar
-- NVIDIA Reflex Low Latency: Ativado + Boost
+| Configuração                        | Valor                          |
+|------------------------------------|--------------------------------|
+| Resolução                           | 1152 x 864 @75                 |
+| Modo de Exibição                    | Tela cheia                     |
+| Boost Player Contrast               | Ativado                        |
+| VSync                               | Desativado                     |
+| MSAA Mode                           | 2x MSAA                        |
+| Qualidade Global das Sombras        | Baixa                          |
+| Detalhe do Modelo/Textura           | Médio                          |
+| Detalhe de Shader                   | Baixo                          |
+| Detalhe de Partícula                | Baixo                          |
+| Oclusão Ambiental                   | Desativado                     |
+| High Dynamic Range                  | Performance                    |
+| FidelityFX Super Resolution         | Desativado (Qualidade mais alta)|
+| NVIDIA Reflex Low Latency           | Ativado + Boost                |
+|------------------------------------|--------------------------------|
 
 
 
