@@ -1,3 +1,4 @@
+[![Steam Badge](https://img.shields.io/badge/Steam-Profile-blue)](https://steamcommunity.com/id/lorthe)
 
 # Counter-Strike 2
 
@@ -5,7 +6,8 @@ Este repositório contém minhas configurações personalizadas para o jogo Coun
 
 _Sinta-se à vontade para explorar as configurações e usá-las como referência para suas próprias preferências. Divirta-se jogando!_
 
-[Link para o meu perfil da Steam](https://steamcommunity.com/id/lorthe)
+[Meu perfil da Steam](https://steamcommunity.com/id/lorthe)
+
 
 ## Configurações
 
