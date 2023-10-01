@@ -1,38 +1,9 @@
 
-## Informações de Hardware
-
-- **CPU**: Intel Core i5-7600
-- **GPU**: NVIDIA GeForce GTX 1660 SUPER
-- **RAM**: 16 GB 3000 MHz
-## Peripherals
-
-- **Mouse**: Zowie FK2 600 DPI
-- **Keyboard**: Corsair K60
-- **Monitor**: Philips 74 Hz
-
-## Configurações no Jogo
-
-- Resolução: 1152 x 864 @75
-- Modo de exibição: Tela cheia
-- Boost Player Contrast: Ativado
-- VSync: Desativado
-- MSAA Mode: 2x MSAA
-- Qualidade global das sombras: Baixa
-- Detalhe do modelo/textura: Médio
-- Detalhe de shader: Baixo
-- Detalhe de partícula: Baixo
-- Oclusão ambiental: Desativado
-- High Dynamic Range: Performance
-- FidelityFX Super Resolution: Desativado (Qualidade mais alta)
-  - Nota: Borda distante pode ficar borrada/arredondada ao ativar
-- NVIDIA Reflex Low Latency: Ativado + Boost
-
-
 # Configurações
 
 ```yaml
 CSGO_Settings:
-  autoexec_path: "C:\\Program Files (x86)\\Steam\\SteamApps\\common\\Counter-Strike Global Offensive\\csgo\\cfg\\autoexec.cfg"
+  autoexec_path: "C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg\autoexec.cfg"
 
 Windows_Monitor_Refresh_Rate:
   steps:
@@ -93,5 +64,34 @@ In_Game_Settings:
   use_uber_shaders: "auto:enabled"
 
 ```
+
+## Informações de Hardware
+
+- **CPU**: Intel Core i5-7600
+- **GPU**: NVIDIA GeForce GTX 1660 SUPER
+- **RAM**: 16 GB 3000 MHz
+## Peripherals
+
+- **Mouse**: Zowie FK2 600 DPI
+- **Keyboard**: Corsair K60
+- **Monitor**: Philips 74 Hz
+
+## Configurações no Jogo
+
+- Resolução: 1152 x 864 @75
+- Modo de exibição: Tela cheia
+- Boost Player Contrast: Ativado
+- VSync: Desativado
+- MSAA Mode: 2x MSAA
+- Qualidade global das sombras: Baixa
+- Detalhe do modelo/textura: Médio
+- Detalhe de shader: Baixo
+- Detalhe de partícula: Baixo
+- Oclusão ambiental: Desativado
+- High Dynamic Range: Performance
+- FidelityFX Super Resolution: Desativado (Qualidade mais alta)
+  - Nota: Borda distante pode ficar borrada/arredondada ao ativar
+- NVIDIA Reflex Low Latency: Ativado + Boost
+
 
 
