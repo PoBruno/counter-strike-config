@@ -93,7 +93,6 @@ In_Game_Settings:
 | High Dynamic Range                  | Performance                    |
 | FidelityFX Super Resolution         | Desativado (Qualidade mais alta)|
 | NVIDIA Reflex Low Latency           | Ativado + Boost                |
-|------------------------------------|--------------------------------|
 
 
 
