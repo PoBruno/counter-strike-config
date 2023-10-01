@@ -70,6 +70,7 @@ In_Game_Settings:
 - **CPU**: Intel Core i5-7600
 - **GPU**: NVIDIA GeForce GTX 1660 SUPER
 - **RAM**: 16 GB 3000 MHz
+
 ## Peripherals
 
 - **Mouse**: Zowie FK2 600 DPI
@@ -95,4 +96,5 @@ In_Game_Settings:
 | NVIDIA Reflex Low Latency           | Ativado + Boost                |
 
 
+---
 
