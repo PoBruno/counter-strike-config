@@ -3,7 +3,7 @@
 
 ```yaml
 CSGO_Settings:
-  autoexec_path: "C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg\autoexec.cfg"
+  autoexec_path: 'C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg\autoexec.cfg'
 
 Windows_Monitor_Refresh_Rate:
   steps:
