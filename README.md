@@ -24,6 +24,9 @@ $ScriptFromGitHub = Invoke-WebRequest https://raw.githubusercontent.com/pobruno/
 CSGO_Settings:
   autoexec_path: 'C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg\autoexec.cfg'
 
+CSGO_Opcao_de_Inicializacao:
+  - value: "-w 1152 -h 864 -novid -fullscreen -console -nojoy -high -freq 75 +exec autoexec.cfg"
+
 Windows_Monitor_Refresh_Rate:
   steps:
     - action: "Win+R"
