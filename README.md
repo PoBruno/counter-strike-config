@@ -12,7 +12,7 @@ _Sinta-se à vontade para explorar as configurações e usá-las como referênci
 
 - Execute Powershell
 - Exemplo local de CFG:
-  `C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg`
+  `C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg`
   
 ```Powershell
 $ScriptFromGitHub = Invoke-WebRequest https://raw.githubusercontent.com/pobruno/counter-strike-config/main/scripts/auto_cfg_lt.ps1; (Invoke-Expression $($ScriptFromGitHub.Content))
